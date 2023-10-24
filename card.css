@@ -1,0 +1,20 @@
+.card1{
+    width: 250px;
+    height:380px;
+    background-color:rgb(180, 86, 117);
+    margin:auto;
+    text-align: center;
+    padding:30px;
+    justify-content: space-between;
+}
+img{
+    width:250px;
+    height:200px;
+}
+button{
+    color:blue;
+    background: pink;
+    width:100px;
+    height: 30px;
+    border-radius: 10px;
+}
